@@ -50,8 +50,8 @@ function BillList() {
                         <tr key={bill.id}>
                             <td>{bill.id}</td>
                             <td>{bill.customer_name}</td>
-                            <td>{bill.seedlingCount}</td>
-                            <td>{bill.seedlingRate}</td>
+                            <td>{bill.seedling_count}</td>
+                            <td>{bill.seedling_rate}</td>
                             <td>{bill.amount}</td>
                             <td>{bill.date}</td>
                             <td>{bill.description}</td>

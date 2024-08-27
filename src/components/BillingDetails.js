@@ -27,9 +27,11 @@ function BillingDetails() {
             <div>
                 <div style={{float:'left'}}>
                 <h2>Billing Details</h2>
+                <p>Prop: <b>S.Ravikumar,B.E</b></p>
+                <p>Mobile No: <b>9944647358, 9842240923</b></p>
                 </div>
                 <div style={{float:'right'}}>
-                    <p>License Number: <b>1234567890</b></p>
+                    <p>License Number: <b>1234/DPI/2018</b></p>
                     <p>Address: <b>V.kottavur, Nallampalli</b></p>
                 </div>
             </div>
